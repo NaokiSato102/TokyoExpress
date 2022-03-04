@@ -1,5 +1,8 @@
-�₳����C# ��3�� (�u�₳�����v�V���[�Y) | ���� ���� |�{ | �ʔ� | Amazon
+やさしいC# 第3版 (「やさしい」シリーズ) | 高橋 麻奈 |本 | 通販 | Amazon
 https://www.amazon.co.jp/dp/4815603928
 
-C#�R�[�h���V�s�W | �o�� �G�s |�{ | �ʔ� | Amazon
+C#コードレシピ集 | 出井 秀行 |本 | 通販 | Amazon
 https://www.amazon.co.jp/dp/4297122650
+
+
+[平均的プログラマ以前向けのスキルの指標 - Lazy Diary @ Hatena Blog](https://satob.hatenablog.com/entry/2018/10/26/012245#fn-eb59eb33)
